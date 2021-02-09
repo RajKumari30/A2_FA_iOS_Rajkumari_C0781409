@@ -7,7 +7,7 @@
 //
 
 
-//completetd
+//completeted now
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
