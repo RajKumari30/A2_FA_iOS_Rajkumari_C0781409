@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>prodID</key>
+		<integer>1</integer>
+		<key>prodName</key>
+		<string>iPhone 12</string>
+		<key>prodDesc</key>
+		<string>Blast past fast.
+5G speed. A14 Bionic, the fastest chip in a smartphone. 
+An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.</string>
+		<key>prodPrice</key>
+		<integer>979</integer>
+		<key>prodProvider</key>
+		<string>Apple</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>2</integer>
+		<key>prodName</key>
+		<string>Pixel</string>
+		<key>prodDesc</key>
+		<string>Google announced the Pixel 5 on September 30, 2020.
+Display: 6.0&quot; OLED, 2340×1080 {19.5:9} pixel resolution; the display uses Corning Gorilla Glass 6.
+Processor: Qualcomm Snapdragon 765G
+Storage: 128 GB
+RAM: 8 GB LPDDR4X
+Camera: 12.2 MP sensor with f/1.7 lens &amp; 16 MP ultrawide sensor with f/2.2 lens, autofocus with dual-pixel phase detection, optical and electrical image stabilization; 8 MP front camera with f/2.0 lens.
+Battery: 4080 mAh; it is non-removable and features fast charging and wireless charging, all day battery, and Battery Share.
+Materials: Brushed aluminum body, IP68 water and dust resistance
+Colors: Just Black and Sorta Sage</string>
+		<key>prodPrice</key>
+		<real>1299</real>
+		<key>prodProvider</key>
+		<string>Google</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>3</integer>
+		<key>prodName</key>
+		<string>MacBook Pro</string>
+		<key>prodDesc</key>
+		<string>Apple M1 Chip with 8‑Core CPU and 8‑Core GPU 
+256GB Storage
+Apple M1 chip with 8‑core CPU, 8-core GPU and 16-core Neural Engine
+8GB unified memory
+256GB SSD storage¹
+13-inch Retina display with True Tone
+Magic Keyboard
+Touch Bar and Touch ID
+Force Touch trackpad
+Two Thunderbolt / USB 4 ports</string>
+		<key>prodPrice</key>
+		<real>1299</real>
+		<key>prodProvider</key>
+		<string>Apple</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>4</integer>
+		<key>prodName</key>
+		<string>Echo Dot</string>
+		<key>prodDesc</key>
+		<string>Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions, set timers and alarms, and more.
+Play music from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, TuneIn, and iHeartRadio.
+Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device.
+Controls lights, locks, thermostats, and more with compatible connected devices.
+Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable.
+50,000+ skills, including Jeopardy!, Lyft, Audible, and Domino&apos;s. Always getting smarter and adding new features.
+Hears you from across the room with 7 far-field microphones for hands-free control, even in noisy environments or while playing music.</string>
+		<key>prodPrice</key>
+		<integer>299</integer>
+		<key>prodProvider</key>
+		<string>Amazon</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>5</integer>
+		<key>prodName</key>
+		<string>JBL Xtreme 2</string>
+		<key>prodDesc</key>
+		<string>JBL Xtreme 2 is the ultimate portable Bluetooth speaker that effortlessly delivers dynamic and immersive stereo sound. The speaker is armed with four drivers, two JBL Bass Radiators, a rechargeable 10,000mAh Li-ion battery supporting up to 15 hours of playtime. On top of these, the speaker carries a convenient USB charge out. The speaker is IPX7 rated, featuring a waterproof design, with rugged fabric in exclusive colors complementing the Xtreme 2. Together with JBL Connect+ it can wirelessly link more than 100 JBL Connect+ enabled speakers to elevate your listening experience and making the party even bigger. The speaker carries integrated hooks, a durable metal base, and an added bottle opener to the carrying strap adding to the consumer convenience level whilst on the go. Not to forget it&apos;s just as well a perfect audio solution for any home. Whether in the living room, poolside, or tailgating for the big game, the JBL Xtreme 2 brings bold sound, wherever!</string>
+		<key>prodPrice</key>
+		<integer>199</integer>
+		<key>prodProvider</key>
+		<string>JBL</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>6</integer>
+		<key>prodName</key>
+		<string>Samsung Galaxy Z Fold</string>
+		<key>prodDesc</key>
+		<string>Made from Samsung Ultra Thin Glass, the 19.27cm (7.6&quot;)* foldable display opens to deliver the rich colours of Dynamic AMOLED 2X. The screen emits less blue light so you can unfold to a tablet sized viewing experience and enjoy for hours on end, all while minimising eye strain.</string>
+		<key>prodPrice</key>
+		<integer>875</integer>
+		<key>prodProvider</key>
+		<string>Samsung</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>7</integer>
+		<key>prodName</key>
+		<string>Tesla Model S</string>
+		<key>prodDesc</key>
+		<string>With 2200x1300 resolution, ultra bright, true colors, exceptional responsiveness and left-right tilt, the new center display is the best screen to watch anywhere. Clean, powerful yet invisible cabin conditioning. Tri-zone temperature controls, ventilated front seats and HEPA filtration come standard.</string>
+		<key>prodPrice</key>
+		<integer>7899</integer>
+		<key>prodProvider</key>
+		<string>Tesla</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>8</integer>
+		<key>prodName</key>
+		<string>MAgic Keyboard</string>
+		<key>prodDesc</key>
+		<string>Magic Keyboard with Numeric Keypad features an extended layout, with document navigation controls for quick scrolling and full-size arrow keys for gaming. A scissor mechanism beneath each key allows for increased stability, while optimised key travel and a low profile provide a comfortable and precise typing experience. The numeric keypad is also great for spreadsheets and finance applications. And the built-in, rechargeable battery is incredibly long-lasting, powering your keyboard for about a month or more between charges</string>
+		<key>prodPrice</key>
+		<integer>379</integer>
+		<key>prodProvider</key>
+		<string>Apple</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>9</integer>
+		<key>prodName</key>
+		<string>Apple Pencil</string>
+		<key>prodDesc</key>
+		<string>Apple Pencil (2nd generation) delivers pixel-perfect precision and industry-leading low latency, making it great for drawing, sketching, colouring, taking notes, marking up email and more. And it’s as easy and natural to use as a pencil.
+Apple Pencil (2nd generation) also allows you to change tools without setting it down, thanks to its intuitive touch surface that supports double-tapping.
+Designed for iPad Pro and iPad Air, it features a flat edge that attaches magnetically for automatic charging and pairing.</string>
+		<key>prodPrice</key>
+		<integer>199</integer>
+		<key>prodProvider</key>
+		<string>Apple</string>
+	</dict>
+	<dict>
+		<key>prodID</key>
+		<integer>10</integer>
+		<key>prodName</key>
+		<string>Back Pack</string>
+		<key>prodDesc</key>
+		<string>Outer Material: Polyester, Color: Red
+Capacity: 22 liters; Weight: 580 grams; Dimensions: 30 cms x 15 cms x 48 cms (LxWxH)
+Number of compartments: 3
+Laptop Compatibility: Yes, Laptop Size: 15 inches
+Warranty type: Manufacturer; 1 year International warranty valid for 1 year from the original date of purchase
+Internal Organizer in the front pocket for secure placement, segregation &amp; easy access of all your essentials
+Includes a laptop sleeve that can fit upto a 15.4&quot; laptop and a dog hook in the front pocket to attach your keys</string>
+		<key>prodPrice</key>
+		<integer>79</integer>
+		<key>prodProvider</key>
+		<string>American Tourister</string>
+	</dict>
+</array>
+</plist>
